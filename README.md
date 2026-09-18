@@ -1,6 +1,5 @@
 # `ABOUT ME`
-<img src="https://imglink.cc/cdn/WX7NWS5032.gif" width="220" alt="About Me" />
-
+![image](https://imglink.cc/cdn/Sa6QZXkMw8.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiylu&label=Profile%20views&color=0e75b6&style=flat" alt="jiylu" /> </p>
