@@ -1,5 +1,5 @@
 # `ABOUT ME`
-<img src="https://s13.gifyu.com/images/buU1m.gif" width="220" alt="About Me" />
+<img src="https://imglink.cc/cdn/WX7NWS5032.gif" width="220" alt="About Me" />
 
 
 
