@@ -1,7 +1,14 @@
 # `ABOUT ME`
 <img src="https://i.pinimg.com/736x/e4/3c/df/e43cdf0a7f630bdb57b9da904c3618b1.jpg" width="220" alt="About Me" />
 
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=jiylu&theme=dark&hide_border=false" /><br/>
+</div>
+
+
 ---
+
 
 ### `SOCIALS`
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy-leaño-5b9441311)
@@ -31,13 +38,4 @@
 #### `INFRASTRUCTURE`
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
----
-
-### `04 // GITHUB STATS`
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=jiylu&theme=dark&hide_border=false" /><br/>
-</div>
-
 
