@@ -37,11 +37,7 @@
 ### `04 // GITHUB STATS`
 
 <div align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=jiylu&theme=terminal&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://streak-stats.demolab.com/?user=jiylu&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jiylu&theme=terminal&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
----
 
-[![](https://komarev.com/ghpvc/?username=jiylu&style=flat-square&color=black)](https://visitcount.itsvg.in)
