@@ -2,10 +2,8 @@
 <img src="https://i.pinimg.com/736x/e4/3c/df/e43cdf0a7f630bdb57b9da904c3618b1.jpg" width="220" alt="About Me" />
 
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=jiylu&theme=dark&hide_border=false" /><br/>
-</div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiylu&label=Profile%20views&color=0e75b6&style=flat" alt="jiylu" /> </p>
 
 ---
 
